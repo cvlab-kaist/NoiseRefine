@@ -5,9 +5,9 @@
     ·
     <a href="https://scholar.google.com/citations?user=A2PurdIAAAAJ&hl=en">Jiwon Kang<sup>●</sup></a>
     ·
-    <a href="https://github.com/lsh83210/">Sanghyun Lee<sup>○</sup</a>
+    <a href="https://github.com/lsh83210/">Sanghyun Lee<sup>○</sup></a>
     ·
-    <a href="https://github.com/Min-Jaewon/">Jaewon Min<sup>○</sup</a>
+    <a href="https://github.com/Min-Jaewon/">Jaewon Min<sup>○</sup></a>
     ·
     <a href="https://scholar.google.com/citations?user=7cyLEQ0AAAAJ&hl=en/">Wooseok Jang<sup></sup></a>
     ·
